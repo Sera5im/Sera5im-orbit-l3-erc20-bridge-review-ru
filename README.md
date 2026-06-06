@@ -35,5 +35,5 @@ flowchart TD
 
 ## Files
 
-- `diff-review.md` — `Orbit`-specific wrapper и точка, где path возвращается в знакомую gateway logic
-- `trail-of-bits-findings.md` — relevant `Trail of Bits` findings, привязанные к этому bridge path
+- [`diff-review.md`](./diff-review.md) — `Orbit`-specific wrapper и точка, где path возвращается в знакомую gateway logic
+- [`trail-of-bits-findings.md`](./trail-of-bits-findings.md) — relevant `Trail of Bits` findings, привязанные к этому bridge path
